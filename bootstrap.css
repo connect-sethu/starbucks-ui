@@ -1,0 +1,154 @@
+* {
+  font-family: SoDoSans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.font {
+  font-family: SoDoSans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  color: black;
+}
+.menubars {
+  font-size: 13px;
+  font-weight: 800;
+}
+.menubars:hover {
+  color: #006241;
+}
+.location {
+  font-size: 25px;
+  font-weight: 600;
+  font-size: 16px;
+}
+.location:hover {
+  color: #006241;
+}
+.order-button:hover {
+  background-color: #56071b;
+}
+.joinnow-button:hover {
+  color: #083827;
+}
+
+.find {
+  margin-left: 15px;
+  margin-top: 5px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.find:hover {
+  color: #006241;
+}
+.signin-btn {
+  font-size: 14px;
+  width: 80px;
+  height: 35px;
+}
+.signin-btn:hover {
+  background-color: #c7d3d0eb;
+}
+.join-btn {
+  font-size: 14px;
+  width: 80px;
+  height: 35px;
+  background-color: black;
+}
+.join-btn:hover {
+  background-color: rgb(45, 43, 43);
+}
+.joinnow-button:hover {
+  background-color: #074631;
+}
+
+.order-now:hover {
+  background-color: #bdce7a;
+}
+.order-now2:hover {
+  background-color: #c3c753;
+}
+.learn {
+  background-color: black;
+}
+.learn:hover {
+  background-color: rgb(58, 55, 55);
+}
+.first {
+  background-color: #9e2240;
+}
+.second {
+  background-color: #006241;
+}
+.third {
+  background-color: #d9e89a;
+}
+.green {
+  background-color: #d9e89a;
+}
+.fourth {
+  background-color: #d2d655;
+}
+.head-1 {
+  font-size: 50px;
+  font-weight: 600;
+}
+.head-3 {
+  font-size: 50px;
+  font-weight: 600;
+  line-height: 60px;
+}
+.head-5 {
+  font-size: 20px;
+  font-weight: 600;
+}
+.sec-1 p {
+  font-size: 24px;
+  font-weight: 500;
+}
+.sec-2 h4 {
+  font-weight: 600;
+}
+.sec-2 p {
+  font-weight: 600;
+}
+
+.sec-4 {
+  background-color: #d2d655;
+}
+.sec-4 p {
+  font-weight: 600;
+  font-size: 24px;
+}
+.sec-4 h1 {
+  font-size: 50px;
+  font-weight: 400;
+  line-height: 60px;
+}
+.symbols {
+  letter-spacing: 10px;
+}
+.footers {
+  color: black;
+}
+.fa-brands {
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+}
+.fa-brands:hover {
+  color: #e44c3e;
+}
+.spoti:hover {
+  color: #008055;
+}
+.fb:hover {
+  color: #2da4ee;
+}
+
+.insta:hover {
+  color: #bf2d0c;
+}
+.youtub:hover {
+  color: red;
+}
+.twitt:hover {
+  color: rgb(133, 127, 127);
+}
